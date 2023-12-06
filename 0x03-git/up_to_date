@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "master"
+git pull
